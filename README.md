@@ -1,2 +1,3 @@
-# telehealth-by-amny
-Website for Telehealth by Amny (APRN, FNP-BC)
+# Telehealth by Amny
+
+Professional virtual care website for Amniellys Rodriguez, APRN, FNP-BC.
